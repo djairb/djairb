@@ -6,7 +6,7 @@
 ---
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djairb&layout=compact&theme=tokyonight" width="500px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djairb&layout=compact&theme=tokyonight" width="400px" />
 
 
 ---
