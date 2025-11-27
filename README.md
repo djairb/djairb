@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá!
 
-<!--
-**djairb/djairb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub!
 
-Here are some ideas to get you started:
+🔗 **LinkedIn:** [https://www.linkedin.com/in/djairbatista-ufrpe/](https://www.linkedin.com/in/djairbatista-ufrpe/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Linguagens mais usadas (com porcentagens)
+
+As porcentagens abaixo são **atualizadas automaticamente** com base nos seus repositórios.
+
+```md
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djairb&layout=compact&theme=tokyonight)
+```
+
+> ⚠️ **Sim!** Essas porcentagens são atualizadas automaticamente cada vez que seus repositórios mudam.
+
+---
+
